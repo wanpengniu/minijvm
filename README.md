@@ -1,1 +1,1 @@
-MiniJVM is study JVM
+MiniJVM is Study JVM
